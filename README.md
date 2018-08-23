@@ -17,6 +17,7 @@ A curated list of awesome OpenCL resources
 * DeepCL - OpenCL library to train deep convolutional neural networks [[github](https://github.com/hughperkins/DeepCL) ![hughperkins/DeepCL](https://img.shields.io/github/stars/hughperkins/DeepCL.svg?style=social&label=Star&maxAge=2592000)]
 * libclsph - OpenCL based GPU accelerated SPH fluid simulation library [[github](https://github.com/libclsph/libclsph) ![libclsph/libclsph](https://img.shields.io/github/stars/libclsph/libclsph.svg?style=social&label=Star&maxAge=2592000)]
 * OpenCL-caffe - OpenCL version of caffe developed by AMD research lab [[github](https://github.com/amd/OpenCL-caffe) ![amd/OpenCL-caffe](https://img.shields.io/github/stars/amd/OpenCL-caffe.svg?style=social&label=Star&maxAge=2592000)]
+* Sol-R - CUDA/OpenCL-based realtime ray-tracer [[github](https://github.com/favreau/Sol-R) ![favreau/Sol-R](https://img.shields.io/github/stars/favreau/Sol-R.svg?style=social&label=Star&maxAge=2592000)]
 
 ## Tutorials
 
