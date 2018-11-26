@@ -7,6 +7,7 @@ A curated list of awesome OpenCL resources
 
 * [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [[github](https://github.com/boostorg/compute) ![boostorg/compute](https://img.shields.io/github/stars/boostorg/compute.svg?style=social&label=Star&maxAge=2592000)]
 * [Chlorine](http://polytonic.github.io/Chlorine/) - Dead Simple OpenCL [[github](https://github.com/Polytonic/Chlorine) ![Polytonic/Chlorine](https://img.shields.io/github/stars/Polytonic/Chlorine.svg?style=social&label=Star&maxAge=2592000)].
+* clpp - Lightweight and easy to use the OpenCL C++ wrapper in single file [[github](https://github.com/matszpk/clpp) ![matszpk/clpp](https://img.shields.io/github/stars/matszpk/clpp.svg?style=social&label=Star&maxAge=2592000)].
 * EasyCL - Easy to run kernels using OpenCL [[github](https://github.com/hughperkins/EasyCL) ![hughperkins/EasyCL](https://img.shields.io/github/stars/hughperkins/EasyCL.svg?style=social&label=Star&maxAge=2592000)]
 * EasyOpenCL - The easiest way to get started with OpenCL! [[github](https://github.com/Gladdy/EasyOpenCL) ![Gladdy/EasyOpenCL](https://img.shields.io/github/stars/Gladdy/EasyOpenCL.svg?style=social&label=Star&maxAge=2592000)]
 * [VexCL](http://vexcl.readthedocs.org) - VexCL is a C++ vector expression template library for OpenCL/CUDA [[github](https://github.com/ddemidov/vexcl) ![ddemidov/vexcl](https://img.shields.io/github/stars/ddemidov/vexcl.svg?style=social&label=Star&maxAge=2592000)]
