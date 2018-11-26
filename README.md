@@ -14,6 +14,7 @@ A curated list of awesome OpenCL resources
 ### Applications
 
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.) [[github](https://github.com/bulletphysics/bullet3) ![bulletphysics/bullet3](https://img.shields.io/github/stars/bulletphysics/bullet3.svg?style=social&label=Star&maxAge=2592000)]
+* [CLBlast](https://cnugteren.github.io/clblast/clblast.html) - Modern, lightweight, performant and tunable OpenCL BLAS library written in C++11 [[github](https://github.com/CNugteren/CLBlast) ![CNugteren/CLBlast](https://img.shields.io/github/stars/CNugteren/CLBlast.svg?style=social&label=Star&maxAge=2592000)]
 * DeepCL - OpenCL library to train deep convolutional neural networks [[github](https://github.com/hughperkins/DeepCL) ![hughperkins/DeepCL](https://img.shields.io/github/stars/hughperkins/DeepCL.svg?style=social&label=Star&maxAge=2592000)]
 * libclsph - OpenCL based GPU accelerated SPH fluid simulation library [[github](https://github.com/libclsph/libclsph) ![libclsph/libclsph](https://img.shields.io/github/stars/libclsph/libclsph.svg?style=social&label=Star&maxAge=2592000)]
 * OpenCL-caffe - OpenCL version of caffe developed by AMD research lab [[github](https://github.com/amd/OpenCL-caffe) ![amd/OpenCL-caffe](https://img.shields.io/github/stars/amd/OpenCL-caffe.svg?style=social&label=Star&maxAge=2592000)]
