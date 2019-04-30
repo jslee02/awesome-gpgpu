@@ -5,6 +5,7 @@ A curated list of awesome OpenCL resources
 
 ### Wrappers
 
+* [Arrayfire](https://arrayfire.com/) - A General purpose GPU library [[github](https://github.com/arrayfire/arrayfire) ![arrayfire/arrayfire](https://img.shields.io/github/stars/arrayfire/arrayfire.svg?style=social&label=Star&maxAge=2592000)]
 * [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [[github](https://github.com/boostorg/compute) ![boostorg/compute](https://img.shields.io/github/stars/boostorg/compute.svg?style=social&label=Star&maxAge=2592000)]
 * [Chlorine](http://polytonic.github.io/Chlorine/) - Dead Simple OpenCL [[github](https://github.com/Polytonic/Chlorine) ![Polytonic/Chlorine](https://img.shields.io/github/stars/Polytonic/Chlorine.svg?style=social&label=Star&maxAge=2592000)].
 * clpp - Lightweight and easy to use the OpenCL C++ wrapper in single file [[github](https://github.com/matszpk/clpp) ![matszpk/clpp](https://img.shields.io/github/stars/matszpk/clpp.svg?style=social&label=Star&maxAge=2592000)].
