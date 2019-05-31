@@ -5,6 +5,8 @@ A curated list of awesome OpenCL resources
 
 ### Wrappers
 
+#### C++
+
 * [Arrayfire](https://arrayfire.com/) - A General purpose GPU library [[github](https://github.com/arrayfire/arrayfire) ![arrayfire/arrayfire](https://img.shields.io/github/stars/arrayfire/arrayfire.svg?style=social&label=Star&maxAge=2592000)]
 * [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [[github](https://github.com/boostorg/compute) ![boostorg/compute](https://img.shields.io/github/stars/boostorg/compute.svg?style=social&label=Star&maxAge=2592000)]
 * [Chlorine](http://polytonic.github.io/Chlorine/) - Dead Simple OpenCL [[github](https://github.com/Polytonic/Chlorine) ![Polytonic/Chlorine](https://img.shields.io/github/stars/Polytonic/Chlorine.svg?style=social&label=Star&maxAge=2592000)].
@@ -12,7 +14,10 @@ A curated list of awesome OpenCL resources
 * EasyCL - Easy to run kernels using OpenCL [[github](https://github.com/hughperkins/EasyCL) ![hughperkins/EasyCL](https://img.shields.io/github/stars/hughperkins/EasyCL.svg?style=social&label=Star&maxAge=2592000)]
 * EasyOpenCL - The easiest way to get started with OpenCL! [[github](https://github.com/Gladdy/EasyOpenCL) ![Gladdy/EasyOpenCL](https://img.shields.io/github/stars/Gladdy/EasyOpenCL.svg?style=social&label=Star&maxAge=2592000)]
 * [VexCL](http://vexcl.readthedocs.org) - VexCL is a C++ vector expression template library for OpenCL/CUDA [[github](https://github.com/ddemidov/vexcl) ![ddemidov/vexcl](https://img.shields.io/github/stars/ddemidov/vexcl.svg?style=social&label=Star&maxAge=2592000)]
-* [Emu](https://github.com/calebwin/emu) - Emu is a high-level language that compiles to OpenCL and provides a procedural macro for embedding code in Rust ![ddemidov/vexcl](https://img.shields.io/github/stars/calebwin/emu.svg?style=social&label=Star&maxAge=2592000)]
+
+#### Rust
+
+* [Emu](https://calebwin.github.io/emu/) - Emu is a high-level language that compiles to OpenCL and provides a procedural macro for embedding code in Rust [[github](https://github.com/calebwin/emu) ![calebwin/emu](https://img.shields.io/github/stars/calebwin/emu.svg?style=social&label=Star&maxAge=2592000)]
 
 ### Applications
 
