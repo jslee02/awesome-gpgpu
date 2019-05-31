@@ -12,6 +12,7 @@ A curated list of awesome OpenCL resources
 * EasyCL - Easy to run kernels using OpenCL [[github](https://github.com/hughperkins/EasyCL) ![hughperkins/EasyCL](https://img.shields.io/github/stars/hughperkins/EasyCL.svg?style=social&label=Star&maxAge=2592000)]
 * EasyOpenCL - The easiest way to get started with OpenCL! [[github](https://github.com/Gladdy/EasyOpenCL) ![Gladdy/EasyOpenCL](https://img.shields.io/github/stars/Gladdy/EasyOpenCL.svg?style=social&label=Star&maxAge=2592000)]
 * [VexCL](http://vexcl.readthedocs.org) - VexCL is a C++ vector expression template library for OpenCL/CUDA [[github](https://github.com/ddemidov/vexcl) ![ddemidov/vexcl](https://img.shields.io/github/stars/ddemidov/vexcl.svg?style=social&label=Star&maxAge=2592000)]
+* [Emu](https://github.com/calebwin/emu) - Emu is a high-level language that compiles to OpenCL and provides a procedural macro for embedding code in Rust ![ddemidov/vexcl](https://img.shields.io/github/stars/calebwin/emu.svg?style=social&label=Star&maxAge=2592000)]
 
 ### Applications
 
