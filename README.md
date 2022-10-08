@@ -1,15 +1,21 @@
 # awesome-gpgpu
 A curated list of awesome GPGPU (CUDA/OpenCL) resources
 
-## CUDA Libraries
+## CUDA
+
+### Libraries
 
 #### C++
 
 * cuda-api-wrappers - Thin, unified, C++-flavored wrappers for the CUDA APIs [[github](https://github.com/eyalroz/cuda-api-wrappers) ![eyalroz/cuda-api-wrappers](https://img.shields.io/github/stars/eyalroz/cuda-api-wrappers.svg?style=social&label=Star&maxAge=2592000)]
 
-## OpenCL Libraries
+### Tutorials
 
-### Wrappers
+* [CMake setup for CUDA](https://cliutils.gitlab.io/modern-cmake/chapters/packages/CUDA.html)
+
+## OpenCL
+
+### Libraries
 
 #### C++
 
@@ -35,7 +41,6 @@ A curated list of awesome GPGPU (CUDA/OpenCL) resources
 * OpenCL-caffe - OpenCL version of caffe developed by AMD research lab [[github](https://github.com/amd/OpenCL-caffe) ![amd/OpenCL-caffe](https://img.shields.io/github/stars/amd/OpenCL-caffe.svg?style=social&label=Star&maxAge=2592000)]
 * Sol-R - CUDA/OpenCL-based realtime ray-tracer [[github](https://github.com/favreau/Sol-R) ![favreau/Sol-R](https://img.shields.io/github/stars/favreau/Sol-R.svg?style=social&label=Star&maxAge=2592000)]
 
-## Tutorials
+### Tutorials
 
-* [CMake setup for CUDA](https://cliutils.gitlab.io/modern-cmake/chapters/packages/CUDA.html)
 * [Basic examples of OpenCL with the C++ API](https://github.com/Dakkers/OpenCL-examples)
