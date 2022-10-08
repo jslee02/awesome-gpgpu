@@ -37,4 +37,5 @@ A curated list of awesome GPGPU (CUDA/OpenCL) resources
 
 ## Tutorials
 
+* [CMake setup for CUDA](https://cliutils.gitlab.io/modern-cmake/chapters/packages/CUDA.html)
 * [Basic examples of OpenCL with the C++ API](https://github.com/Dakkers/OpenCL-examples)
