@@ -1,7 +1,13 @@
-# awesome-opencl
-A curated list of awesome OpenCL resources
+# awesome-gpgpu
+A curated list of awesome GPGPU (CUDA/OpenCL) resources
 
-## Libraries
+## CUDA Libraries
+
+#### C++
+
+* cuda-api-wrappers - Thin, unified, C++-flavored wrappers for the CUDA APIs [[github](https://github.com/eyalroz/cuda-api-wrappers) ![eyalroz/cuda-api-wrappers](https://img.shields.io/github/stars/eyalroz/cuda-api-wrappers.svg?style=social&label=Star&maxAge=2592000)]
+
+## OpenCL Libraries
 
 ### Wrappers
 
