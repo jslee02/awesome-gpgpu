@@ -8,7 +8,7 @@ A curated list of awesome GPGPU (CUDA/OpenCL) resources
 #### C++
 
 * cuda-api-wrappers - Thin, unified, C++-flavored wrappers for the CUDA APIs [[github](https://github.com/eyalroz/cuda-api-wrappers) ![eyalroz/cuda-api-wrappers](https://img.shields.io/github/stars/eyalroz/cuda-api-wrappers.svg?style=social&label=Star&maxAge=2592000)]
-* [Thrush](https://thrust.github.io/) - The C++ parallel algorithms library [[github](https://github.com/NVIDIA/thrust) ![NVIDIA/thrust](https://img.shields.io/github/stars/NVIDIA/thrust.svg?style=social&label=Star&maxAge=2592000)]
+* [Thrust](https://thrust.github.io/) - The C++ parallel algorithms library [[github](https://github.com/NVIDIA/thrust) ![NVIDIA/thrust](https://img.shields.io/github/stars/NVIDIA/thrust.svg?style=social&label=Star&maxAge=2592000)]
 
 ### Tutorials
 
