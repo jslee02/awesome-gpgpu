@@ -45,3 +45,11 @@ A curated list of awesome GPGPU (CUDA/OpenCL) resources
 ### Tutorials
 
 * [Basic examples of OpenCL with the C++ API](https://github.com/Dakkers/OpenCL-examples)
+
+## Vulkan
+
+### Libraries
+
+#### C++
+
+* [Kompute](https://kompute.cc/) - The general purpose GPU compute framework for cross vendor graphics cards [[github](https://github.com/KomputeProject/kompute) ![KomputeProject/kompute](https://img.shields.io/github/stars/KomputeProject/kompute.svg?style=social&label=Star&maxAge=2592000)]
