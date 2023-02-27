@@ -1,5 +1,5 @@
 # awesome-gpgpu
-A curated list of awesome GPGPU (CUDA/OpenCL) resources
+A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 ## CUDA
 
