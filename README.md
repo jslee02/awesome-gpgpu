@@ -6,19 +6,21 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 ## Contents
 
-- [CUDA](#cuda)
-  - [Libraries](#libraries)
-    - [C++](#c)
-  - [Tutorials](#tutorials)
-- [OpenCL](#opencl)
-  - [Libraries](#libraries)
-    - [C++](#c)
-    - [Rust](#rust)
-  - [Applications](#applications)
-  - [Tutorials](#tutorials)
-- [Vulkan](#vulkan)
-  - [Libraries](#libraries)
-    - [C++](#c)
+* [CUDA](#cuda)
+  * [Libraries](#libraries)
+    * [C++](#c)
+  * [Tutorials](#tutorials)
+* [OpenCL](#opencl)
+  * [Libraries](#libraries)
+    * [C++](#c)
+    * [Rust](#rust)
+  * [Applications](#applications)
+  * [Tutorials](#tutorials)
+* [Vulkan](#vulkan)
+  * [Libraries](#libraries)
+    * [C++](#c)
+
+> **Legend**: 🟢 Active (<1yr) · 🟡 Slow (1-2yr) · 🔴 Stale (>2yr) · 💀 Archived
 
 ## [CUDA](#contents)
 
@@ -26,8 +28,8 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 #### C++
 
-* cuda-api-wrappers - Thin, unified, C++-flavored wrappers for the CUDA APIs [[github](https://github.com/eyalroz/cuda-api-wrappers) ![eyalroz/cuda-api-wrappers](https://img.shields.io/github/stars/eyalroz/cuda-api-wrappers.svg?style=social&label=Star&maxAge=2592000)]
-* [Thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library [[github](https://github.com/NVIDIA/thrust) ![NVIDIA/thrust](https://img.shields.io/github/stars/NVIDIA/thrust.svg?style=social&label=Star&maxAge=2592000)]
+* 🟢 cuda-api-wrappers - Thin, unified, C++-flavored wrappers for the CUDA APIs [⭐ 885](https://github.com/eyalroz/cuda-api-wrappers)
+* 💀 [Thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library [⭐ 5k](https://github.com/NVIDIA/thrust)
 
 ### Tutorials
 
@@ -39,31 +41,31 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 #### C++
 
-* [Arrayfire](https://arrayfire.com/) - A General purpose GPU library [[github](https://github.com/arrayfire/arrayfire) ![arrayfire/arrayfire](https://img.shields.io/github/stars/arrayfire/arrayfire.svg?style=social&label=Star&maxAge=2592000)]
-* [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [[github](https://github.com/boostorg/compute) ![boostorg/compute](https://img.shields.io/github/stars/boostorg/compute.svg?style=social&label=Star&maxAge=2592000)]
-* [Chlorine](http://polytonic.github.io/Chlorine/) - Dead Simple OpenCL [[github](https://github.com/Polytonic/Chlorine) ![Polytonic/Chlorine](https://img.shields.io/github/stars/Polytonic/Chlorine.svg?style=social&label=Star&maxAge=2592000)].
-* clpp - Lightweight and easy to use the OpenCL C++ wrapper in single file [[github](https://github.com/matszpk/clpp) ![matszpk/clpp](https://img.shields.io/github/stars/matszpk/clpp.svg?style=social&label=Star&maxAge=2592000)].
-* EasyCL - Easy to run kernels using OpenCL [[github](https://github.com/hughperkins/EasyCL) ![hughperkins/EasyCL](https://img.shields.io/github/stars/hughperkins/EasyCL.svg?style=social&label=Star&maxAge=2592000)]
-* EasyOpenCL - The easiest way to get started with OpenCL! [[github](https://github.com/Gladdy/EasyOpenCL) ![Gladdy/EasyOpenCL](https://img.shields.io/github/stars/Gladdy/EasyOpenCL.svg?style=social&label=Star&maxAge=2592000)]
-* [VexCL](http://vexcl.readthedocs.org) - VexCL is a C++ vector expression template library for OpenCL/CUDA [[github](https://github.com/ddemidov/vexcl) ![ddemidov/vexcl](https://img.shields.io/github/stars/ddemidov/vexcl.svg?style=social&label=Star&maxAge=2592000)]
+* 🟢 [ArrayFire](https://arrayfire.com/) - A general-purpose GPU library [⭐ 4.9k](https://github.com/arrayfire/arrayfire)
+* 🟢 [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [⭐ 1.7k](https://github.com/boostorg/compute)
+* 🔴 [Chlorine](http://polytonic.github.io/Chlorine/) - Dead Simple OpenCL [⭐ 429](https://github.com/Polytonic/Chlorine)
+* 🔴 clpp - Lightweight and easy to use the OpenCL C++ wrapper in single file [⭐ 5](https://github.com/matszpk/clpp)
+* 🟡 EasyCL - Easy to run kernels using OpenCL [⭐ 188](https://github.com/hughperkins/EasyCL)
+* 🔴 EasyOpenCL - The easiest way to get started with OpenCL! [⭐ 310](https://github.com/Gladdy/EasyOpenCL)
+* 🟢 [VexCL](http://vexcl.readthedocs.org) - VexCL is a C++ vector expression template library for OpenCL/CUDA [⭐ 719](https://github.com/ddemidov/vexcl)
 
 #### Rust
 
-* [Emu](https://calebwin.github.io/emu/) - Emu is a high-level language that compiles to OpenCL and provides a procedural macro for embedding code in Rust [[github](https://github.com/calebwin/emu) ![calebwin/emu](https://img.shields.io/github/stars/calebwin/emu.svg?style=social&label=Star&maxAge=2592000)]
+* 🔴 [Emu](https://calebwin.github.io/emu/) - Emu is a high-level language that compiles to OpenCL and provides a procedural macro for embedding code in Rust [⭐ 1.6k](https://github.com/calebwin/emu)
 
 ### Applications
 
-* [Bullet](http://bulletphysics.org/wordpress/) - Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.) [[github](https://github.com/bulletphysics/bullet3) ![bulletphysics/bullet3](https://img.shields.io/github/stars/bulletphysics/bullet3.svg?style=social&label=Star&maxAge=2592000)]
-* [CLBlast](https://cnugteren.github.io/clblast/clblast.html) - Modern, lightweight, performant and tunable OpenCL BLAS library written in C++11 [[github](https://github.com/CNugteren/CLBlast) ![CNugteren/CLBlast](https://img.shields.io/github/stars/CNugteren/CLBlast.svg?style=social&label=Star&maxAge=2592000)]
-* DeepCL - OpenCL library to train deep convolutional neural networks [[github](https://github.com/hughperkins/DeepCL) ![hughperkins/DeepCL](https://img.shields.io/github/stars/hughperkins/DeepCL.svg?style=social&label=Star&maxAge=2592000)]
-* libclsph - OpenCL based GPU accelerated SPH fluid simulation library [[github](https://github.com/libclsph/libclsph) ![libclsph/libclsph](https://img.shields.io/github/stars/libclsph/libclsph.svg?style=social&label=Star&maxAge=2592000)]
-* MACE - Deep learning inference framework optimized for mobile heterogeneous computing platforms [[github](https://github.com/XiaoMi/mace) ![XiaoMi/mace](https://img.shields.io/github/stars/XiaoMi/mace.svg?style=social&label=Star&maxAge=2592000)]
-* OpenCL-caffe - OpenCL version of caffe developed by AMD research lab [[github](https://github.com/amd/OpenCL-caffe) ![amd/OpenCL-caffe](https://img.shields.io/github/stars/amd/OpenCL-caffe.svg?style=social&label=Star&maxAge=2592000)]
-* Sol-R - CUDA/OpenCL-based realtime ray-tracer [[github](https://github.com/favreau/Sol-R) ![favreau/Sol-R](https://img.shields.io/github/stars/favreau/Sol-R.svg?style=social&label=Star&maxAge=2592000)]
+* 🟢 [Bullet](http://bulletphysics.org/wordpress/) - Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.) [⭐ 14.5k](https://github.com/bulletphysics/bullet3)
+* 🟢 [CLBlast](https://cnugteren.github.io/clblast/clblast.html) - Modern, lightweight, performant and tunable OpenCL BLAS library written in C++11 [⭐ 1.2k](https://github.com/CNugteren/CLBlast)
+* 🔴 DeepCL - OpenCL library to train deep convolutional neural networks [⭐ 881](https://github.com/hughperkins/DeepCL)
+* 🔴 libclsph - OpenCL based GPU accelerated SPH fluid simulation library [⭐ 52](https://github.com/libclsph/libclsph)
+* 🔴 MACE - Deep learning inference framework optimized for mobile heterogeneous computing platforms [⭐ 5k](https://github.com/XiaoMi/mace)
+* 🔴 OpenCL-caffe - OpenCL version of caffe developed by AMD research lab [⭐ 526](https://github.com/amd/OpenCL-caffe)
+* 🟢 Sol-R - CUDA/OpenCL-based realtime ray-tracer [⭐ 306](https://github.com/favreau/Sol-R)
 
 ### Tutorials
 
-* [Basic examples of OpenCL with the C++ API](https://github.com/Dakkers/OpenCL-examples)
+* 🔴 [Basic examples of OpenCL with the C++ API](https://github.com/Dakkers/OpenCL-examples) [⭐ 180](https://github.com/Dakkers/OpenCL-examples)
 
 ## [Vulkan](#contents)
 
@@ -71,7 +73,7 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 #### C++
 
-* [Kompute](https://kompute.cc/) - The general purpose GPU compute framework for cross vendor graphics cards [[github](https://github.com/KomputeProject/kompute) ![KomputeProject/kompute](https://img.shields.io/github/stars/KomputeProject/kompute.svg?style=social&label=Star&maxAge=2592000)]
+* 🟢 [Kompute](https://kompute.cc/) - The general purpose GPU compute framework for cross vendor graphics cards [⭐ 2.5k](https://github.com/KomputeProject/kompute)
 
 ## [Contributing](#contents)
 
