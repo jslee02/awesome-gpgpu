@@ -1,20 +1,39 @@
-# awesome-gpgpu
+# Awesome GPGPU
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
-## CUDA
+## Contents
+
+- [CUDA](#cuda)
+  - [Libraries](#libraries)
+    - [C++](#c)
+  - [Tutorials](#tutorials)
+- [OpenCL](#opencl)
+  - [Libraries](#libraries)
+    - [C++](#c)
+    - [Rust](#rust)
+  - [Applications](#applications)
+  - [Tutorials](#tutorials)
+- [Vulkan](#vulkan)
+  - [Libraries](#libraries)
+    - [C++](#c)
+
+## [CUDA](#contents)
 
 ### Libraries
 
 #### C++
 
 * cuda-api-wrappers - Thin, unified, C++-flavored wrappers for the CUDA APIs [[github](https://github.com/eyalroz/cuda-api-wrappers) ![eyalroz/cuda-api-wrappers](https://img.shields.io/github/stars/eyalroz/cuda-api-wrappers.svg?style=social&label=Star&maxAge=2592000)]
-* [Thrust](https://thrust.github.io/) - The C++ parallel algorithms library [[github](https://github.com/NVIDIA/thrust) ![NVIDIA/thrust](https://img.shields.io/github/stars/NVIDIA/thrust.svg?style=social&label=Star&maxAge=2592000)]
+* [Thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library [[github](https://github.com/NVIDIA/thrust) ![NVIDIA/thrust](https://img.shields.io/github/stars/NVIDIA/thrust.svg?style=social&label=Star&maxAge=2592000)]
 
 ### Tutorials
 
 * [CMake setup for CUDA](https://cliutils.gitlab.io/modern-cmake/chapters/packages/CUDA.html)
 
-## OpenCL
+## [OpenCL](#contents)
 
 ### Libraries
 
@@ -46,10 +65,18 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 * [Basic examples of OpenCL with the C++ API](https://github.com/Dakkers/OpenCL-examples)
 
-## Vulkan
+## [Vulkan](#contents)
 
 ### Libraries
 
 #### C++
 
 * [Kompute](https://kompute.cc/) - The general purpose GPU compute framework for cross vendor graphics cards [[github](https://github.com/KomputeProject/kompute) ![KomputeProject/kompute](https://img.shields.io/github/stars/KomputeProject/kompute.svg?style=social&label=Star&maxAge=2592000)]
+
+## [Contributing](#contents)
+
+Contributions are very welcome. Please read the [contribution guidelines](CONTRIBUTING.md) first. Also, please feel free to report any error.
+
+## [License](#contents)
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
